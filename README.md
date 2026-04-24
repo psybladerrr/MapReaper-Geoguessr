@@ -1,100 +1,107 @@
 # 🗺️ MapReaper
 
-> **MapReaper** — powerful map assistant for geo-based games.
-> Fast. Precise. Unfair (almost).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=MapReaper+Extension;GeoGuessr+Assistant+Tool;Browser+Map+Enhancer;Open+Source+Project" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20Source-00ff88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-Browser%20Extension-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-black?style=for-the-badge"/>
+</p>
 
 ---
 
-## ⚡ About
+## ⚡ What is MapReaper?
 
-**MapReaper** is a lightweight and efficient tool designed to enhance your gameplay in map-based guessing games like GeoGuessr-style platforms.
+**MapReaper** is an open-source browser extension designed to enhance map-based guessing games like GeoGuessr-style platforms.
 
 It helps you:
+- analyze locations faster
+- recognize visual patterns
+- improve decision accuracy
+- streamline gameplay experience
 
-* Identify locations faster
-* Improve accuracy
-* Gain an edge in competitive rounds
-
-Built with a focus on **speed**, **minimalism**, and **clean UI**.
+> Lightweight. Fast. Built for competitive players.
 
 ---
 
-## 🚀 Versions
-
-Choose your platform:
+## 🌐 Versions
 
 <p align="center">
 
-[![Geoguessr](https://img.shields.io/badge/🌍%20Geoguessr-Version-1f6feb?style=for-the-badge\&logo=googlemaps\&logoColor=white)](https://github.com/yourname/MapReaper-Geoguessr)
+### 🌍 GeoGuessr Extension  
+[![Install GeoGuessr](https://img.shields.io/badge/INSTALL-GEOGUESSR-1f6feb?style=for-the-badge&logo=googlechrome)](https://github.com/YOURNAME/MapReaper-Geoguessr)
 
-[![Russiaguessr](https://img.shields.io/badge/🇷🇺%20Russiaguessr-Version-8b0000?style=for-the-badge\&logo=mapbox\&logoColor=white)](https://github.com/yourname/MapReaper-Russiaguessr)
+---
+
+### 🇷🇺 Russiaguessr Extension  
+[![Install Russia](https://img.shields.io/badge/INSTALL-RUSSIAGUESSR-8b0000?style=for-the-badge&logo=googlechrome)](https://github.com/YOURNAME/MapReaper-Russiaguessr)
 
 </p>
 
 ---
 
-## ✨ Features
+## 🎬 Preview
 
-* ⚡ Instant location hints
-* 🧠 Smart detection system
-* 🎯 Precision boosting tools
-* 🌑 Clean dark-mode UI
-* 🧩 Minimal performance impact
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="600"/>
+</p>
 
 ---
 
-## 📸 Preview
+## 🧠 Features
 
-<p align="center">
-  <img src="https://via.placeholder.com/500x300.png?text=Preview+1" width="45%" />
-  <img src="https://via.placeholder.com/500x300.png?text=Preview+2" width="45%" />
-</p>
+- ⚡ Instant location hints
+- 🧭 Road & environment pattern detection
+- 🧠 Smart visual analysis
+- 🎯 Precision boosting tools
+- 🚀 Lightweight browser performance
 
 ---
 
 ## 📦 Installation
 
-1. Go to the version you need
-2. Open **Releases**
-3. Download latest build
-4. Follow instructions in that repo
+1. Go to **Releases**
+2. Download latest version
+3. Open Chrome / Chromium browser
+4. Go to `chrome://extensions/`
+5. Enable **Developer Mode**
+6. Click **Load unpacked**
+7. Select extension folder
+
+---
+
+## 📁 Project Structure
+MapReaper/
+├── extension/
+│ ├── content.js
+│ ├── background.js
+│ ├── popup/
+├── assets/
+├── versions/
+│ ├── geoguessr/
+│ └── russiaguessr/
+└── README.md
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is provided for **educational purposes only**.
+This project is open-source and intended for **educational purposes only**.
 
-Using tools like this may violate the terms of service of certain platforms.
-You are responsible for how you use this software.
-
----
-
-## 🧠 Philosophy
-
-> “Why guess, when you can know.”
+Users are responsible for compliance with platform rules where it is used.
 
 ---
 
 ## ⭐ Support
 
-If you like the project:
-
-* ⭐ Star the repository
-* 🛠 Contribute
-* 🧃 Share with friends
-
----
-
-## 📬 Contact
-
-For suggestions or collaboration:
-
-* Open an issue
-* Or reach out via GitHub
+- Star the repository ⭐  
+- Contribute 🛠  
+- Share with others 🌍  
 
 ---
 
 <p align="center">
-  <b>MapReaper</b> — dominate the map.
+<b>MapReaper</b> — enhance your map awareness.
 </p>
