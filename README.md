@@ -15,6 +15,12 @@
 <p align="center">
   <img src="https://s10.iimage.su/s/24/gKnfZp8xXR2ILQGzUX5m184U1kzzELvIRtp2uqwaW.png" width="360"/>
 </p>
+<p align="center">
+  <a href="https://github.com/psybladerrr/MapReaper-Geoguessr/tree/main#-download">
+    <img src="https://img.shields.io/badge/GET%20LATEST%20VERSION-DOWNLOAD-2ea44f?style=for-the-badge&logo=github" 
+         alt="Download"/>
+  </a>
+</p>
 
 ---
 
