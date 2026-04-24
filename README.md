@@ -51,10 +51,17 @@ It helps you:
 ---
 
 ## 🎬 Preview
-
+# 🇷🇺 RussiaGuessr
 <p align="center">
   <img src="https://s10.iimage.su/s/24/g67iY3HxJ6o7gfYCzsYIGaK8mTIbgErsJN89vHDy9.png" width="600"/>
   <img src="https://s10.iimage.su/s/24/gfrJ36mx5zZ6ftDl635cyfZO9wJDkgUoDNaUFbPq4.png" width="600"/>
+</p>
+
+# 🌍 GeoGuessr
+<p align="center">
+  <img src="https://s10.iimage.su/s/24/gZSDswcx9tP5eDRXoCRqccw8ojf2MfcNt8HArqPzw.png"" width="600"/>
+  <img src="https://s10.iimage.su/s/24/gW14HD3xypBpvJerCKqwCvf8LmgBddsfzRXLwvuyz.png"" width="600"/>
+  <img src="https://s10.iimage.su/s/24/gg1DkXKxwHHYmXEHkfSXKVbvOdAUtneGKBuU1FA4e.png""" width="600"/>
 </p>
 
 ---
