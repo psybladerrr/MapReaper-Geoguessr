@@ -11,6 +11,8 @@
 </p>
 
 ---
+  <img src="https://s10.iimage.su/s/24/gYRoltcxKSe6f2IwBBDa5i6e8FyTKewEtFG8VXtXg.png" width="600"/>
+---
 
 # 🌍 English Version
 
