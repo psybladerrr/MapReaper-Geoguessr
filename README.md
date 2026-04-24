@@ -12,15 +12,17 @@
 
 ---
 
+# 🌍 English Version
+
 ## ⚡ What is MapReaper?
 
 **MapReaper** is an open-source browser extension designed to enhance map-based guessing games like GeoGuessr-style platforms.
 
 It helps you:
-- analyze locations faster
-- recognize visual patterns
-- improve decision accuracy
-- streamline gameplay experience
+- analyze locations faster  
+- recognize visual patterns  
+- improve decision accuracy  
+- streamline gameplay experience  
 
 > Lightweight. Fast. Built for competitive players.
 
@@ -30,13 +32,13 @@ It helps you:
 
 <p align="center">
 
-### 🌍 GeoGuessr Extension  
-[![Install GeoGuessr](https://img.shields.io/badge/INSTALL-GEOGUESSR-1f6feb?style=for-the-badge&logo=googlechrome)](https://github.com/YOURNAME/MapReaper-Geoguessr)
+### 🌍 GeoGuessr Version  
+[![Download](https://img.shields.io/badge/RELEASES-GEOGUESSR-1f6feb?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper/releases)
 
 ---
 
-### 🇷🇺 Russiaguessr Extension  
-[![Install Russia](https://img.shields.io/badge/INSTALL-RUSSIAGUESSR-8b0000?style=for-the-badge&logo=googlechrome)](https://github.com/YOURNAME/MapReaper-Russiaguessr)
+### 🇷🇺 Russiaguessr Version  
+[![Download](https://img.shields.io/badge/RELEASES-RUSSIAGUESSR-8b0000?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper/releases)
 
 </p>
 
@@ -52,23 +54,23 @@ It helps you:
 
 ## 🧠 Features
 
-- ⚡ Instant location hints
-- 🧭 Road & environment pattern detection
-- 🧠 Smart visual analysis
-- 🎯 Precision boosting tools
-- 🚀 Lightweight browser performance
+- ⚡ Instant location hints  
+- 🧭 Road & environment pattern detection  
+- 🧠 Smart visual analysis  
+- 🎯 Precision boosting tools  
+- 🚀 Lightweight browser performance  
 
 ---
 
 ## 📦 Installation
 
-1. Go to **Releases**
-2. Download latest version
-3. Open Chrome / Chromium browser
-4. Go to `chrome://extensions/`
-5. Enable **Developer Mode**
-6. Click **Load unpacked**
-7. Select extension folder
+1. Go to **Releases**  
+2. Download latest version  
+3. Open Chrome / Chromium  
+4. Go to `chrome://extensions/`  
+5. Enable **Developer Mode**  
+6. Click **Load unpacked**  
+7. Select extension folder  
 
 ---
 
@@ -102,6 +104,86 @@ Users are responsible for compliance with platform rules where it is used.
 
 ---
 
+<br>
+
+# 🇷🇺 Русская версия
+
+## ⚡ Что такое MapReaper?
+
+**MapReaper** — это open-source браузерное расширение для улучшения игр на угадывание местоположений (GeoGuessr и похожие сервисы).
+
+Оно помогает:
+- быстрее определять локации  
+- распознавать визуальные паттерны  
+- повышать точность  
+- ускорять процесс игры  
+
+> Лёгкое. Быстрое. Создано для соревновательной игры.
+
+---
+
+## 🌐 Версии
+
 <p align="center">
-<b>MapReaper</b> — enhance your map awareness.
+
+### 🌍 GeoGuessr версия  
+[![Скачать](https://img.shields.io/badge/РЕЛИЗЫ-GEOGUESSR-1f6feb?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper/releases)
+
+---
+
+### 🇷🇺 Russiaguessr версия  
+[![Скачать](https://img.shields.io/badge/РЕЛИЗЫ-RUSSIAGUESSR-8b0000?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper/releases)
+
+</p>
+
+---
+
+## 🎬 Превью
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="600"/>
+</p>
+
+---
+
+## 🧠 Возможности
+
+- ⚡ мгновенные подсказки  
+- 🧭 анализ дорог и окружения  
+- 🧠 умное распознавание  
+- 🎯 повышение точности  
+- 🚀 лёгкая работа в браузере  
+
+---
+
+## 📦 Установка
+
+1. Перейдите в **Releases**  
+2. Скачайте последнюю версию  
+3. Откройте Chrome / Chromium  
+4. Перейдите в `chrome://extensions/`  
+5. Включите **режим разработчика**  
+6. Нажмите **Загрузить распакованное расширение**  
+7. Выберите папку  
+
+---
+
+## ⚠️ Отказ от ответственности
+
+Проект является open-source и предназначен **только для образовательных целей**.
+
+Пользователь сам несёт ответственность за использование.
+
+---
+
+## ⭐ Поддержка
+
+- Поставьте звезду ⭐  
+- Участвуйте в разработке 🛠  
+- Делитесь 🌍  
+
+---
+
+<p align="center">
+<b>MapReaper</b> — улучшай своё понимание карты.
 </p>
