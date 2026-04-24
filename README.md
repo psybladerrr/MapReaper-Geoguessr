@@ -1,4 +1,4 @@
-# 🗺️ MapReaper — GeoGuessr Location Analyzer
+# 🗺️ MapReaper — GeoGuessr % RussiaGuesser Helper Tool
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=ff3b3b&center=true&vCenter=true&width=700&lines=MapReaper+Extension;GeoGuessr+Location+Analyzer;Coordinate+Extraction+Tool;Built+for+Map+Verification" />
