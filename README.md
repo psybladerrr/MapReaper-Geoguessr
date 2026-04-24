@@ -1,7 +1,7 @@
 # 🗺️ MapReaper
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=MapReaper+Extension;GeoGuessr+Assistant+Tool;Browser+Map+Enhancer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Elms+Sans&weight=700&size=28&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=MapReaper+Extension;GeoGuessr+Assistant+Tool;Browser+Map+Enhancer" />
 </p>
 
 <p align="center">
