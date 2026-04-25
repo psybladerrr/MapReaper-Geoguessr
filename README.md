@@ -195,22 +195,31 @@ The extension intercepts these Google Maps API calls:
 
 ## 📦 Installation
 
-### Instruction
+### Quick Install (Recommended)
 
-1. Download latest release from [Releases](https://github.com/psybladerrr/MapReaper/releases)
-2. Extract ZIP file
-2. **Open Chrome/Edge Extensions**
-   - Navigate to `chrome://extensions/`
-   - Enable **Developer Mode** (toggle in top-right)
-3. **Load Extension**
-   - Click **Load unpacked**
-   - Select the `MapReaper` folder
-   - Extension icon should appear in toolbar
+1. **Download Extension**
 
-4. **Verify Installation**
+   - Go to [Releases](https://github.com/psybladerrr/MapReaper/releases)
+
+   - Download `MapReaper.Geoguessr.crx` file from the latest release
+
+2. **Install Extension**
+
+   - Open `chrome://extensions/` (or `edge://extensions/`)
+
+   - Enable **Developer Mode** (toggle in top-right corner)
+
+   - **Drag and drop** the `.crx` file into the browser window
+
+   - Click **Add Extension** in the popup
+
+3. **Verify Installation**
+
    - Visit [geoguessr.com](https://www.geoguessr.com)
+
    - Start a game
-   - "Where?" button should appear in top-left
+
+   - "Where?" button should appear in top-left corner
 
 ---
 
